@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+body,
+html {
+  height: 100%;
+  display: grid;
+  background-color: #ffdd40;
+}
+#space {
+  width: 5px;
+}
+.container {
+  height: 50%;
+  width: 50%;
+  margin: auto;
+  display: flex;
+  text-align: center;
+}
+.letter {
+  margin: auto;
+  font-size: 40px;
+  font-family: 'Indie Flower';
+  text-shadow: 15px 25px 3px #383434;
+}
